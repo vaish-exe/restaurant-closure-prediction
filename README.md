@@ -29,7 +29,7 @@ Steps included:
 
 ---
 
-### 🛠 Techniques & Tools Used
+### Techniques & Tools Used
 - **Python**, **Pandas**, **NumPy**
 - **VADER** for sentiment scoring
 - **Matplotlib**, **Seaborn**, **Plotly** for visualizations
